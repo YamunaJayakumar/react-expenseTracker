@@ -1,3 +1,3 @@
 # liveemo
- [Click to Open App]((https://expense-tracker-yamuna.netlify.app/))
+ [Click to Open App](https://expense-tracker-yamuna.netlify.app/)
 
